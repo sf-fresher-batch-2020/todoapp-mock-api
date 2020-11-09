@@ -1,15 +1,23 @@
 {
   "name": "bankingapp-mock-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "* Create a folder\r ```\r mkdir bankapp-mock-api\r cd bankapp-mock-api\r ```",
   "main": "server.js",
   "scripts": {
-    "start" : "node server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sf-fresher-batch-2020/todoapp-mock-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sf-fresher-batch-2020/todoapp-mock-api/issues"
+  },
+  "homepage": "https://github.com/sf-fresher-batch-2020/todoapp-mock-api#readme"
 }

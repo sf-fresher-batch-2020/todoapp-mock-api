@@ -1,5 +1,20 @@
 {
-    "users": [],
+    "users": [{
+            "name": "kiran",
+            "id": 1,
+            "mail": "kiran@mail.com"
+        },
+        {
+            "name": "test",
+            "id": 2,
+            "mail": "test@mail.com"
+        },
+        {
+            "name": "das",
+            "id": 3,
+            "mail": "das@mail.com"
+        }
+    ],
     "profiles": [],
     "tasks": []
 
