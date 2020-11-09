@@ -1,16 +1,7 @@
 {
-    "users": [
-
-    ],
-    "accounts": [
-
-    ],
-    "transactions": [
-
-    ],
-    "payees":[
-        
-    ]
-    
+    "users": [],
+    "profiles": [],
+    "tasks": [],
+    "logged_in_user": []
 
 }
